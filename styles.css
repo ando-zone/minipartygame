@@ -60,8 +60,8 @@ body{
 
 .info_text span:first-child{
     position: absolute;
+    bottom:5px;
 }
 .info_text span:last-child{
     position: absolute;
-    bottom:-5px;
 }
