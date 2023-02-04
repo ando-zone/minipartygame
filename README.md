@@ -1,0 +1,2 @@
+# minipartygame
+enjoy the game :)
